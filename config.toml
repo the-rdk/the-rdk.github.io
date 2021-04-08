@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The RDK"
+theme = "hyde"
+
+[params]
+  description = "Research. Development. Kayaking."
+  themeColor = "theme-base-0b"
