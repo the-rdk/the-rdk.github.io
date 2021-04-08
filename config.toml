@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "The RDK"
 theme = "hyde"
+publishDir = "docs"
 
 [params]
   description = "Research. Development. Kayaking."
