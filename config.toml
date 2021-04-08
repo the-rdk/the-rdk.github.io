@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://the-rdk.github.io/rdk_website/"
 languageCode = "en-us"
 title = "The RDK"
 theme = "hyde"

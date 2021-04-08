@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://the-rdk.github.io/rdk_website/</loc>
     <lastmod>2021-04-07T11:24:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://the-rdk.github.io/rdk_website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://the-rdk.github.io/rdk_website/tags/</loc>
     <priority>0</priority>
   </url>
   
