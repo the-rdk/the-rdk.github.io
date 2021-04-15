@@ -7,3 +7,8 @@ publishDir = "docs"
 [params]
   description = "Research. Development. Kayaking."
   themeColor = "theme-base-0b"
+
+[Menus]
+  main = [
+    {Name = "Books", URL="/book"}
+  ]
