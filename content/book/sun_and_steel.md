@@ -5,3 +5,5 @@ draft: false
 ---
 
 [Link to epub](/books/sun_and_steel.epub)
+
+[Link to Youtube Audiobook](https://www.youtube.com/watch?v=ikfv8YgFIZE)
