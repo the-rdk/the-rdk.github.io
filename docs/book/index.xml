@@ -6,10 +6,21 @@
     <description>Recent content in Books on The RDK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 09:24:53 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 11:13:59 +0100</lastBuildDate>
     
 	<atom:link href="https://the-rdk.github.io/rdk_website/book/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>History of Central Banking by Stephen Mitford Goodson</title>
+      <link>https://the-rdk.github.io/rdk_website/book/history_of_central_banking/</link>
+      <pubDate>Fri, 30 Apr 2021 11:13:59 +0100</pubDate>
+      
+      <guid>https://the-rdk.github.io/rdk_website/book/history_of_central_banking/</guid>
+      <description>Link to epub
+Link to Bitchute Audiobook
+Link to Audiobook Download</description>
+    </item>
     
     <item>
       <title>Sun and Steel by Yukio Mishima</title>
@@ -18,7 +29,8 @@
       
       <guid>https://the-rdk.github.io/rdk_website/book/sun_and_steel/</guid>
       <description>Link to epub
-Link to Youtube Audiobook</description>
+Link to Youtube Audiobook
+Selected Quotes Chapter 4, Pg 36 Success comes when both the timing and placing of the blow are just right. But more than this, it happens when the choice of time and target—one’s judgement—manages to catch the foe momentarily off guard, when one has an intuitive apprehension of that off-guard moment a fraction of a second before it becomes perceptible to the senses.</description>
     </item>
     
   </channel>
