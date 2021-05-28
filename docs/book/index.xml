@@ -6,10 +6,19 @@
     <description>Recent content in Books on The RDK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Apr 2021 11:13:59 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 May 2021 09:54:11 +0100</lastBuildDate>
     
 	<atom:link href="https://the-rdk.github.io/rdk_website/book/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bronze_age_mindset</title>
+      <link>https://the-rdk.github.io/rdk_website/book/bronze_age_mindset/</link>
+      <pubDate>Fri, 28 May 2021 09:54:11 +0100</pubDate>
+      
+      <guid>https://the-rdk.github.io/rdk_website/book/bronze_age_mindset/</guid>
+      <description>Link to epub</description>
+    </item>
     
     <item>
       <title>A History of Central Banking by Stephen Mitford Goodson</title>
@@ -18,7 +27,11 @@
       
       <guid>https://the-rdk.github.io/rdk_website/book/history_of_central_banking/</guid>
       <description>Link to epub
-Link to Bitchute Audiobook</description>
+Link to Bitchute Audiobook
+The book makes many unsourced claims, and when it does provide sources they are frequently unreliable.
+However, reading and verifying the claims in the book drew attention to a number of interesting events and ideas:
+ The Chicago Plan: A proposal for &amp;ldquo;full-reserve&amp;rdquo; banking.
+ The author is of the opinion that the Great Depression was intentionally caused by the Federal Reserver. Economist Milton Friedman held a similar opinion, that they failed to perform their duty as a lender of last resort.</description>
     </item>
     
     <item>
