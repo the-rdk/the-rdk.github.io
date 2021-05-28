@@ -1,5 +1,5 @@
 ---
-title: "Bronze_age_mindset"
+title: "Bronze Age Mindset"
 date: 2021-05-28T09:54:11+01:00
 draft: false
 ---
