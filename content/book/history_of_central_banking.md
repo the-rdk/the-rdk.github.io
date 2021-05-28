@@ -15,7 +15,7 @@ However, reading and verifying the claims in the book drew attention to a number
 * [The Chicago Plan](https://en.wikipedia.org/wiki/Chicago_plan#A_Program_for_Monetary_Reform): A proposal for
 "full-reserve" banking.
   
-* The author is of the opinion that the Great Depression was intentionally caused by the Federal Reserver. Economist
+* The author is of the opinion that the Great Depression was intentionally caused by the Federal Reserve. Economist
 Milton Friedman held a similar opinion,
   [that they failed to perform their duty as a lender of last resort](https://fee.org/articles/the-great-depression-according-to-milton-friedman/).
   
