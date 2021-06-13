@@ -19,7 +19,7 @@ However, reading and verifying the claims in the book drew attention to a number
 Milton Friedman held a similar opinion,
   [that they failed to perform their duty as a lender of last resort](https://fee.org/articles/the-great-depression-according-to-milton-friedman/).
   
-* The Bank of England had the now dormant Bank of England Nominees which was exempt exempt from the requirement
+* The Bank of England had the now dormant Bank of England Nominees which was exempt from the requirement
   to declare the identities of their shareholders. The Guardian claims the Queen made use of it to 
   [hide her private wealth](https://www.theguardian.com/uk-news/2021/feb/07/revealed-queen-lobbied-for-change-in-law-to-hide-her-private-wealth).
   
