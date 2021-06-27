@@ -5,3 +5,5 @@ draft: false
 ---
 
 [Link to epub](/rdk_website/books/bronze_age_mindset.epub)
+
+Opinion:
