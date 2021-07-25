@@ -7,8 +7,7 @@ draft: false
 [Link to epub](/rdk_website/books/bronze_age_mindset.epub)
 
 Don't let the authors poor grammar fool you, Bronze Age Mindset punches above its weight and is worth reading through 
-more than once. His style of writing is energetically humorous, and at times absurd, like walking in on an in-joke you 
-aren't in on yourself.
+more than once. His style of writing is energetically humorous, and at times absurd. Highly recommended.
 
 Bronze Age Pervert (BAP) builds heavily upon Nietzsche's body of work, though he has several other notable influences.
 Namely: Paglia, Schopenhauer, Machiavelli, and Mishima.
