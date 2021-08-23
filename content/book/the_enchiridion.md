@@ -22,7 +22,7 @@ Taking a cue from The Enchiridion, we can choose to view failure as a learning e
 To accept the dice however they happen to fall. Having the toolkit to make the best of failure sets a foundation
 from which we can pursue our desires with genuine effort.
 
-Where the Enchiridion would have you avoid disappointment, I would rather have the strength to endure it. Even with these
+Where the Enchiridion would have you avoid disappointment, I would rather have the strength of character to endure it. Even with these
 flaws, the book remains an interesting collection of wisdom and a worthwhile read.
 
 
