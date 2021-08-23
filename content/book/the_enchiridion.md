@@ -25,8 +25,8 @@ to avoid disappointment. However, a life truly without desire is not possible, h
 disappointment is similarly impossible.
 
 Taking a cue from The Enchiridion, we can choose to view failure as a learning experience rather than something harmful. 
-To accept the dice however they happen to fall. Having the mental toolkit to make the best of failure sets a foundation
-from which we can pursue our desires with a genuine effort.
+To accept the dice however they happen to fall. Having the toolkit to make the best of failure sets a foundation
+from which we can pursue our desires with genuine effort.
 
 Where the Enchiridion would have you avoid disappointment, I would rather have the strength to endure it. Even with these 
 flaws, the book remains an interesting collection of wisdom and a worthwhile read.
