@@ -13,23 +13,18 @@ draft: false
 Nietzsche presented us with two fundamental types of morality: Master and Slave morality. The Enchiridion's championing
 of dispassion falls plainly within the realm of Slave morality. Though that is not to say the book has nothing to offer.
 
-The core take-away is to focus on own actions, that which is within our control. As to that which is outside our 
-control, we can only control our perception of them. From this core idea, emerges the corollary that happiness comes
-from within, we attain it by deriving happiness only from what is within our control. That is, by letting go of the desire for 
-that which is outside our reach. From this perspective, a critical opinion of ambition appears wise. Or is it just cope?
+The core takeaway is to focus on our own actions, that which is within our control. As to that which is outside our control, we can only control our perception of them. From this core idea, emerges the corollary that happiness comes
+from within, we attain it by deriving happiness only from what is within our control. That is, by letting go of the desire for that which is outside our reach. From this perspective, a critical opinion of ambition appears wise. Or is it just cope?
 
-The Enchiridion provides a framework for accepting difficult failure. From withdrawing your emotional attachment to 
-outcomes, to rejecting what is outside your influence to focus on what options are realistically available. Where the book 
-falters is in an early contradiction - do not be averse to what is outside your control, and to let go of desire
-to avoid disappointment. However, a life truly without desire is not possible, hence a life without failure or 
-disappointment is similarly impossible.
+The Enchiridion provides a framework for accepting difficult failures. From withdrawing your emotional attachment to outcomes to rejecting what is outside your influence to focus on what options are realistically available. Where the book falters is in an early contradiction - do not be averse to what is outside your control, and let go of desire to avoid disappointment. However, a life truly without desire is not possible, hence a life without failure or disappointment is similarly impossible.
 
-Taking a cue from The Enchiridion, we can choose to view failure as a learning experience rather than something harmful. 
+Taking a cue from The Enchiridion, we can choose to view failure as a learning experience rather than something harmful.
 To accept the dice however they happen to fall. Having the toolkit to make the best of failure sets a foundation
 from which we can pursue our desires with genuine effort.
 
-Where the Enchiridion would have you avoid disappointment, I would rather have the strength to endure it. Even with these 
+Where the Enchiridion would have you avoid disappointment, I would rather have the strength to endure it. Even with these
 flaws, the book remains an interesting collection of wisdom and a worthwhile read.
+
 
 # Selected Passages
 
