@@ -16,7 +16,7 @@ The author attempts to build a foundation to a fourth political theory against L
 
 Published in 2012 the author was ahead of his time in some ways. As seen above, Sasha provides an early look into what we now know as the "cuck-servative". He similarly mocks Communism for having become an alternate reality game popular with the young bourgeoise.
 
-When touching on Fascism wanders into being fatally flawed. Sasha attempts to separate the Racism inherent to Fascism, without proper regard for its inclusion. In short, his analysis completely overlooks Racism being hilarious.
+When critiquing fascism Sasha makes a fatal mistake. He attempts to separate the Racism inherent to Fascism, without proper regard for its inclusion. In short, his analysis completely overlooks Racism being hilarious.
 
 From what can be deciphered Dugin proposes an amalgamation of the strengths of communism and fascism. The result is an "anti-racist" endorsement for segregation, an embrace of collective identity and an appeal to the value of tradition. Also known as fascism with a few extra steps and a spot of paint.
 
