@@ -6,10 +6,20 @@
     <description>Recent content in Books on The RDK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Sep 2021 09:41:21 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 19:25:47 +0100</lastBuildDate>
     
 	<atom:link href="https://the-rdk.github.io/rdk_website/book/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Win Friends and Influence People by Dale Carnegie</title>
+      <link>https://the-rdk.github.io/rdk_website/book/how_to_win_friends_and_influence_people/</link>
+      <pubDate>Tue, 19 Oct 2021 19:25:47 +0100</pubDate>
+      
+      <guid>https://the-rdk.github.io/rdk_website/book/how_to_win_friends_and_influence_people/</guid>
+      <description>Link to PDF
+Link to epub</description>
+    </item>
     
     <item>
       <title>Struggle for Berlin by Joseph Goebbels</title>
