@@ -23,11 +23,11 @@ serve him well in acquiring the position of chief propagandist for the Third Rei
 ## Selected Quotes
 
 ### Page 17
-Modern propaganda was well rests in essence on the effect of the spoken word. Revolutionary movements are not
+Modern propaganda as well rests in essence on the effect of the spoken word. Revolutionary movements are not
 made by great writers, rather by great speakers.
 
 ### Page 14
-Socialism such we understand it is essentially the result of a healthy feeling of justice, tied to a consciousness of
+Socialism such as we understand it is essentially the result of a healthy feeling of justice, tied to a consciousness of
 responsibility toward the nation, without regard for the “interests of an individual".
 
 ### Page 40
@@ -52,8 +52,8 @@ becomes at the same moment.
 Among nationalist writers, I usually had the impression that, quite the opposite, they wanted to put our
 organization into the service of their pens. And hence for me, the verdict over them was pronounced from the
 start. Above all, they seemed to lack the necessary civil courage. One was afraid to discredit oneself among the
-civilization literati. It is the fear of the education philistine, who does not dare to protest against whatever Jewish
-insanity out of fear of appearing not modem and being ridiculed as untimely. Nationalism will always be decried by
+civilization literati. It is the fear of the educated philistine, who does not dare to protest against whatever Jewish
+insanity out of fear of appearing not modern and being ridiculed as untimely. Nationalism will always be decried by
 the civilization literati as reactionary. One must then simply summon up the civil courage to shout it into the hacks
 in the editorial offices: if nationalism is in their opinion reactionary, then we are just in God’s name reactionaries.
 But we are in no way ready to allow our worldview to be prescribed for us by egotistical, excessively arrogant
