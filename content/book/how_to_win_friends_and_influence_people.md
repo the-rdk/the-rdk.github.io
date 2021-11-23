@@ -9,6 +9,7 @@ draft: false
 [Link to epub](/rdk_website/books/how_to_win_friends_and_influence_people.epub)
 
 "How to Win Friends And Influence People" by Dale Carnegie is a one-stop-shop for aspiring used car salesmen and middle managers to attain mastery in the laudable art of brown-nosing. The reader may at first consider the rules and principles laid out in this book rather simple, but as with Newton's laws of motion and Pythagoras' theorem, Carnegie was the first to write them down. It is hardly a surprise then that "How to Win Friends And Influence People" is considered the social-etiquette bible by marketers, politicians, and snake salesmen the world over.
+
 Carnegie lays out his principles in long-form, punctuated with his own observations of human behaviour and practical examples drawn from his lifetime of tutoring and mentorship in the field of human relations. This approach helps to solidify the foundations and assumptions of each principle, and give the reader an idea as to its applicability in everyday life; before driving the point home with a concise summary of the principle at the end of each chapter.
 
 A few sample principles:
@@ -16,9 +17,13 @@ A few sample principles:
 > Don't criticize, condemn, or complain
 
 Carnegie notes that humans react better to praise and positive remarks than they do criticism. For example, a foreman at a construction site may remark:
+
 "WEAR YOUR GODDAMN HARDHATS, OR I'LL FIRE YOU FOR VIOLATING SITE POLICY!"
+
 or, he may say:
+
 "Please make sure to wear your hardhats - it would kill me if anything happened to you!"
+
 It is obvious to see that the tactful approach that expresses concern for the worker's safety is likely to be the most effective, because it does not criticize.
 
 > Talk in terms of the other person's interests.
@@ -32,6 +37,7 @@ Carnegie realises that few people can resist a good bit of competition - a princ
 > Give the other person a fine reputation to live up to
 
 "Assume a virtue, if you have it not" - Shakespeare.
+
 People have an inherent desire to be respected and reputable. If you praise someone on a virtue or skill, they will work extra hard to attempt to maintain the opinion they think you have of them - even if they don't necessarily possess these qualities in the first place!
 
 And, finally, a principle that underlies Carnegie's entire book:
