@@ -4,9 +4,9 @@ date: 2021-08-23T11:49:21+01:00
 draft: false
 ---
 
-[Link to epub](/rdk_website/books/the_fourth_political_theory.epub)
+[Link to epub](/books/the_fourth_political_theory.epub)
 
-[Link to PDF](/rdk_website/books/the_fourth_political_theory.pdf)
+[Link to PDF](/books/the_fourth_political_theory.pdf)
 
 # The Fourth Political Thoery - Fascism with a few extra steps
 

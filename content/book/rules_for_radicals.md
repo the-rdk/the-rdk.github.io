@@ -4,7 +4,7 @@ date: 2021-06-27T16:11:10+01:00
 draft: false
 ---
 
-[Link to epub](/rdk_website/books/rules_for_radicals.epub)
+[Link to epub](/books/rules_for_radicals.epub)
 
 Rules for Radicals is a window into the famous Jewish revolutionary spirit. A great read. It touches on morals, 
 mindset and tactics. Both Nietzsche and Machiavelli make unexpected appearances. A recommended read to dissidents of 

@@ -4,9 +4,9 @@ date: 2021-09-18T09:41:21+01:00
 draft: false
 ---
 
-[Link to PDF](/rdk_website/books/struggle_for_berlin.pdf)
+[Link to PDF](/books/struggle_for_berlin.pdf)
 
-[Link to epub (poor quality)](/rdk_website/books/struggle_for_berlin.epub)
+[Link to epub (poor quality)](/books/struggle_for_berlin.epub)
 
 The Struggle For Berlin by Joseph Goebbels is a personal account of events throughout the late 1920s and into the
 early 1930s Germany regarding the NSDAP movement in Prussia in general and Berlin in particular. Throughout the

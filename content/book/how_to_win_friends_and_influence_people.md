@@ -4,9 +4,9 @@ date: 2021-10-19T19:25:47+01:00
 draft: false
 ---
 
-[Link to PDF](/rdk_website/books/how_to_win_friends_and_influence_people.pdf)
+[Link to PDF](/books/how_to_win_friends_and_influence_people.pdf)
 
-[Link to epub](/rdk_website/books/how_to_win_friends_and_influence_people.epub)
+[Link to epub](/books/how_to_win_friends_and_influence_people.epub)
 
 "How to Win Friends And Influence People" by Dale Carnegie is a one-stop-shop for aspiring used car salesmen and middle managers to attain mastery in the laudable art of brown-nosing. The reader may at first consider the rules and principles laid out in this book rather simple, but as with Newton's laws of motion and Pythagoras' theorem, Carnegie was the first to write them down. It is hardly a surprise then that "How to Win Friends And Influence People" is considered the social-etiquette bible by marketers, politicians, and snake salesmen the world over.
 

@@ -4,7 +4,7 @@ date: 2021-05-28T09:54:11+01:00
 draft: false
 ---
 
-[Link to epub](/rdk_website/books/bronze_age_mindset.epub)
+[Link to epub](/books/bronze_age_mindset.epub)
 
 Don't let the authors poor grammar fool you, Bronze Age Mindset punches above its weight and is worth reading through 
 more than once. His style of writing is energetically humorous, and at times absurd. Highly recommended.
