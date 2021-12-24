@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://the-rdk.github.io/book/always_the_horizon/</loc>
-    <lastmod>2021-11-07T19:40:36+00:00</lastmod>
+    <loc>https://the-rdk.github.io/book/</loc>
+    <lastmod>2021-12-24T19:29:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://the-rdk.github.io/book/</loc>
+    <loc>https://the-rdk.github.io/book/human_forever/</loc>
+    <lastmod>2021-12-24T19:29:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/always_the_horizon/</loc>
     <lastmod>2021-11-07T19:40:36+00:00</lastmod>
   </url>
   
