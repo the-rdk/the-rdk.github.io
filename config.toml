@@ -1,14 +1,16 @@
 baseURL = "https://the-rdk.github.io/"
 languageCode = "en-us"
 title = "The RDK"
-theme = "hyde"
+# https://github.com/Mitrichius/hugo-theme-anubis
+theme = "anubis"
 publishDir = "docs"
 
 [params]
-  description = "Research. Development. Kayaking."
-  themeColor = "theme-base-0b"
+  style = "dark"
 
 [Menus]
   main = [
-    {Name = "Books", URL="/book"}
+    {Name = "Articles", URL = "/article", weight = 2},
+    {Name = "Home", URL = "/", weight = 1},
+    {Name = "Book Club", URL = "/book", weight = 3},
   ]
