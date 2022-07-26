@@ -1,5 +1,5 @@
 ---
-title: "The Best of: Human, Forever"
+title: "A Readers Digest of Human, Forever"
 date: 2021-12-24T19:29:53Z
 draft: false
 authors:
