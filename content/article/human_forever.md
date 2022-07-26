@@ -16,8 +16,8 @@ The book is dense and, much to my annoyance, the PDF it is distributed as is a p
 the hyper-online Right will be familiar with the themes, but will still find the depth and quality of the
 work satisfying.
 
-The book is long, arduous and worth reading. I share below my personal selection of quotes as a reader's digest edit of
-the *Human, Forever*.
+The book is long, arduous and worth reading. I share below my personal selection of quotes as a reader's digest edit of 
+*Human, Forever*.
 
 ## Selected Quotes
 
