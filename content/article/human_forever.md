@@ -9,8 +9,8 @@ authors:
 [PDF Link to Human, Forever by James Poulos](/books/human_forever.pdf)
 
 *Human, Forever* presents a modern face to the propaganda petri dish of mass society Jacques Ellul sought to document.
-Drawing from a large literary range from Spengler and Nietzsche to Fortnite, James Poulos shares valuable insights
-behind an obfuscating pretentiousness which would make Yukio Mishima blush.
+Drawing from Spengler and Nietzsche to Fortnite, James Poulos shares valuable insights regarding our modern predicament 
+behind an obfuscating poetic air which would make Yukio Mishima blush.
 
 The book is dense and, much to my annoyance, the PDF it is distributed as is a pain to copy-paste from. Those on
 the hyper-online Right will be familiar with the themes, but will still find the depth and quality of the
