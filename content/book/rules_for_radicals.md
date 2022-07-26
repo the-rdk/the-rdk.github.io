@@ -2,6 +2,8 @@
 title: "Book Club: Rules for Radicals by Saul Alinsky"
 date: 2021-06-27T16:11:10+01:00
 draft: false
+authors: 
+  - "Nic Lozanges"
 ---
 
 [Link to epub](/books/rules_for_radicals.epub)
@@ -92,5 +94,5 @@ Equality, Fraternity," "Of the Common Welfare," "Pursuit of Happiness," or "Brea
 * Democracy is not an end; it is the best political means available toward the achievement of these values.
 
 * The real action is in the enemy's reaction.
-  The enemy properly goaded and guided in his reaction will he your major strength.
+  The enemy properly goaded and guided in his reaction will be your major strength.
   Tactics, like organization, like life, require that you move with the action.
