@@ -3,7 +3,7 @@ title: "The Captive Mind by Czesław Miłosz"
 date: 2022-01-21T17:14:57Z
 draft: false
 authors: 
-    - "Nic Lozange"
+    - "Nic Lozanges"
 ---
 
 [Link to PDF](/books/the_captive_mind.pdf)

@@ -3,6 +3,8 @@
         {{ .Content }}
     </div>
 
+    <h1><u>Recent Posts:</u></h1>
+
     <div class="articles h-feed">
         {{ range .Site.RegularPages }}
             {{ partial "post-summary.html" . }}

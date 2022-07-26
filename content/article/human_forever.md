@@ -1,10 +1,23 @@
 ---
-title: "Human, Forever: The Digital Politics of Spiritual War by James Poulos"
+title: "The Best of: Human, Forever"
 date: 2021-12-24T19:29:53Z
 draft: false
+authors:
+    - "Nic Lozanges"
 ---
 
-[Link to PDF](/books/human_forever.pdf)
+[PDF Link to Human, Forever by James Poulos](/books/human_forever.pdf)
+
+*Human, Forever* presents a modern face to the propaganda petri dish of mass society Jacques Ellul sought to document.
+Drawing from a large literary range from Spengler and Nietzsche to Fortnite, James Poulos shares valuable insights
+behind an obfuscating pretentiousness which would make Yukio Mishima blush.
+
+The book is dense and, much to my annoyance, the PDF it is distributed as is a pain to copy-paste from. Those on
+the hyper-online Right will be familiar with the themes, but will still find the depth and quality of the
+work satisfying.
+
+The book is long, arduous and worth reading. I share below my personal selection of quotes as a reader's digest edit of
+the *Human, Forever*.
 
 ## Selected Quotes
 
@@ -103,19 +116,19 @@ Following this line of thought we can produce a rather technical but logically s
 2. that shapes a people
 3. from whose humanization of a specifc site in natural spacetime
 4. by making that site their home
-5. it indirectly and independently arises them back. For diﬀerent times make diﬀerent demands. (46)
+5. it indirectly and independently arises them back. For different times make different demands.
 
 ### Page 45
 
-The Athenian Stranger in Plato’s Laws agrees: “The people equipped to make decisions on these matters must be of a certain way of thinking,” believing “that a city, just like an individual, has an obligation to lead a good life.” (47) Lawgivers are beholden to the people and to the good; social terraformers to nothing but themselves, their fantasies, or their imagined masters. No politeia, no politics, not even from the very moment of a founding.
+The Athenian Stranger in Plato’s Laws agrees: “The people equipped to make decisions on these matters must be of a certain way of thinking,” believing “that a city, just like an individual, has an obligation to lead a good life.” Lawgivers are beholden to the people and to the good; social terraformers to nothing but themselves, their fantasies, or their imagined masters. No politeia, no politics, not even from the very moment of a founding.
 
 ### Page 47
 
-The upshot of Goethe’s teaching is that the ultimate other against which we must compete, even or especially if its defeat is infnitely far oﬀ, is our own technology, which constructs our existence and experience with total indiﬀerence to what we want, fear, or hope for.
+The upshot of Goethe’s teaching is that the ultimate other against which we must compete, even or especially if its defeat is infinitely far off, is our own technology, which constructs our existence and experience with total indifference to what we want, fear, or hope for.
 
 ### Page 50
 
-In the present spacetime, the digital swarm mercilessly eﬀaces the “disinterested bystander” by swamping him or her with a sensory overload of information that forces frenetic imitation, not calm separation.“World War III is a guerrilla information war with no division between military and civilian participation,” as Marshall McLuhan suggested.
+In the present spacetime, the digital swarm mercilessly effaces the “disinterested bystander” by swamping him or her with a sensory overload of information that forces frenetic imitation, not calm separation.“World War III is a guerrilla information war with no division between military and civilian participation,” as Marshall McLuhan suggested.
 
 ### Page 50
 
@@ -123,7 +136,7 @@ Postmodernity tried to save politics by transforming everyone from people who ar
 
 ### Page 51
 
-Twenty years of follow your passion and imagine all the people has led generations to follow their imaginations oﬀ a cliﬀ, into a parts bin of Human Resources who feel every bit as interoperable as the indiﬀerent components of the soulless digital swarm.
+Twenty years of follow your passion and imagine all the people has led generations to follow their imaginations off a cliﬀ, into a parts bin of Human Resources who feel every bit as interoperable as the indifferent components of the soulless digital swarm.
 
 ### Page 51
 
@@ -137,11 +150,11 @@ As applied to the technological situation threatening the possibility of politic
 
 ### Page 57
 
-This is why the First Generation will fnd in its favorite biographies, in stories of men and the exploits by which they came of age, an authority sufcient to make communication good for us again.
+This is why the First Generation will fnd in its favorite biographies, in stories of men and the exploits by which they came of age, an authority sufficient to make communication good for us again.
 
 ### Page 63
 
-a kinsman and friend of King Hiero, wrote to him that with any given force it was possible to move any given weight; and emboldened, as we are told, by the strength of his demonstration, he declared that, if there were another world, and he could go to it, he could move this.” (69) According to Plutarch, “Hiero was astonished, and begged him to put his proposition into execution, and show him some great weight moved by a slight force. ” Afer watching Archimedes draw in his direction a beached and fully loaded royal merchant ship using only a hand-operated pulley system, Hiero was duly “amazed;” comprehending the power of his art, the king persuaded Archimedes to prepare for him oﬀensive and defensive engines to be used in every kind of siege warfare. These he had never used himself, because he spent the greater part of his life in freedom from war and amid the festal rites of peace; but at the present time his apparatus stood the Syracusans in good stead, and, with the apparatus, its fabricator.
+a kinsman and friend of King Hiero, wrote to him that with any given force it was possible to move any given weight; and emboldened, as we are told, by the strength of his demonstration, he declared that, if there were another world, and he could go to it, he could move this.” According to Plutarch, “Hiero was astonished, and begged him to put his proposition into execution, and show him some great weight moved by a slight force. ” Afer watching Archimedes draw in his direction a beached and fully loaded royal merchant ship using only a hand-operated pulley system, Hiero was duly “amazed;” comprehending the power of his art, the king persuaded Archimedes to prepare for him oﬀensive and defensive engines to be used in every kind of siege warfare. These he had never used himself, because he spent the greater part of his life in freedom from war and amid the festal rites of peace; but at the present time his apparatus stood the Syracusans in good stead, and, with the apparatus, its fabricator.
 
 ### Page 65
 
@@ -153,11 +166,11 @@ They demanded the strict moral-political supervision of inventions; the good and
 
 ### Page 67
 
-Political life, in short, seems inherently to demand a certain sacrifce of true happiness, or a lowering of the soul; but this is to say that the true happiness of the polis, and the embodiment and expression of true political happiness in the politeia, are impossible without enough men making this sacrifce of soul. Glory, then, appears as the best or only true compensation or reward for the man lowering his soul from the very highest out of duty to what one of Strauss’s students pregnantly called “the fatherland,” but which might more equanimitably be called the spacetime secured by our continuous comings of age shared and passed from fathers to sons.
+Political life, in short, seems inherently to demand a certain sacrifice of true happiness, or a lowering of the soul; but this is to say that the true happiness of the polis, and the embodiment and expression of true political happiness in the politeia, are impossible without enough men making this sacrifce of soul. Glory, then, appears as the best or only true compensation or reward for the man lowering his soul from the very highest out of duty to what one of Strauss’s students pregnantly called “the fatherland,” but which might more equanimitably be called the spacetime secured by our continuous comings of age shared and passed from fathers to sons.
 
 ### Page 70
 
-What is implied by Strauss is that Machiavelli’s response to the dilemma of military innovation led to, but is diﬀerent from, the instrumentalist project that failed the West. And in fact, the key to Machiavelli’s warlike counsel was not Archimedean: the best arms, he showed, were not technological but spiritual arms. Anton recounts that in this way Machiavelli equates knowledge and arms, whereas the classics would equate knowledge and virtue. But the knowledge Machiavelli has in mind distinguishes between what he calls the cowardly “idleness” of Italy’s then-dominant Christianity and the courageous combat of those—even Christians—who would “prepare ourselves to be such that we can defend” the fatherland. (77) Such preparation requires not just some kind of instrumental knowledge of war but an education of the spirit in the military power of a just appetite for glory. Machiavelli’s fundamental military invention is the elevation to supremacy of spiritual arms, something he does in response to the triumph of Christ’s spiritual arms over the spirit of glory that so long sustained Rome, whatever its myriad faults and weaknesses.
+What is implied by Strauss is that Machiavelli’s response to the dilemma of military innovation led to, but is different from, the instrumentalist project that failed the West. And in fact, the key to Machiavelli’s warlike counsel was not Archimedean: the best arms, he showed, were not technological but spiritual arms. Anton recounts that in this way Machiavelli equates knowledge and arms, whereas the classics would equate knowledge and virtue. But the knowledge Machiavelli has in mind distinguishes between what he calls the cowardly “idleness” of Italy’s then-dominant Christianity and the courageous combat of those—even Christians—who would “prepare ourselves to be such that we can defend” the fatherland. (77) Such preparation requires not just some kind of instrumental knowledge of war but an education of the spirit in the military power of a just appetite for glory. Machiavelli’s fundamental military invention is the elevation to supremacy of spiritual arms, something he does in response to the triumph of Christ’s spiritual arms over the spirit of glory that so long sustained Rome, whatever its myriad faults and weaknesses.
 
 ### Page 72
 
@@ -177,7 +190,7 @@ Reason and commerce may attenuate and redirect the passion for glory, and render
 
 ### Page 79
 
-The ideal woman became a goddess of the sort defned by the maxim that “anything boys can do girls can do better,” while the ideal man became a god for whom “power” was not an end in itself but, as Henry Kissinger called it, “the ultimate aphrodisiac."
+The ideal woman became a goddess of the sort defined by the maxim that “anything boys can do girls can do better,” while the ideal man became a god for whom “power” was not an end in itself but, as Henry Kissinger called it, “the ultimate aphrodisiac."
 
 ### Page 82
 
@@ -185,11 +198,11 @@ Deutsch wryly observes that “the problem with imagination is that it can creat
 
 ### Page 86
 
-With its promise of achieving a permanently progressing new age through a fusion of the scientifc and the spiritual, sparkism seems perfect for the oddly more fragile yet more intransigent new men and women formed under the sex-and-gender-bending progression of media accelerating from print to electric and beyond.
+With its promise of achieving a permanently progressing new age through a fusion of the scientific and the spiritual, sparkism seems perfect for the oddly more fragile yet more intransigent new men and women formed under the sex-and-gender-bending progression of media accelerating from print to electric and beyond.
 
 ### Page 87
 
-Yet sparkism relies for its power on two things: its ability to herd people against their will and eﬀort into the sparkist future, and its ability to win people over through the power and authority of its explanations that we are (pace Brand) already as gods—possessing in our heads “the only process known to be capable of creating knowledge” without limit— and must now get good at it. (101)
+Yet sparkism relies for its power on two things: its ability to herd people against their will and effort into the sparkist future, and its ability to win people over through the power and authority of its explanations that we are (pace Brand) already as gods—possessing in our heads “the only process known to be capable of creating knowledge” without limit— and must now get good at it.
 
 ### Page 89
 
@@ -225,7 +238,7 @@ The problem of our time has never been with technology as such. There is no inne
 
 ### Page 119
 
-“Their schemes are demented: the movie Mulholland Drive revealed some of what they do, indirectly and with metaphor. They have learned how to harness various kinds of energy, for example, the kind of energy bestowed by human attention in large numbers, and to power certain kinds of machines with it.
+“Their schemes are demented: the movie Mulholland Drive revealed some of what they do, indirectly and with metaphor. They have learned how to harness various kinds of energy, for example, the kind of energy bestowed by human attention in large numbers, and to power certain kinds of machines with it."
 
 ### Page 89
 
@@ -242,7 +255,7 @@ you everywhere.”
 
 ### Page 128
 
-“His memory was extremely rich and retentive: whatever he had once read and grasped he never forgot; it was as if knowledge were ever increasing in his soul as page is added to page in the writing of a book.” (160) Ostensibly opposite types of praise, in fact both Einstein and Thomas were hailed by their closest colleagues for “a concentrated continuous energy that expresses itself in a profound singlemindedness, a remarkable solitude and aloofness”—in sum, “a recognizable likeness between these two extraordinary intellects. ”
+“His memory was extremely rich and retentive: whatever he had once read and grasped he never forgot; it was as if knowledge were ever increasing in his soul as page is added to page in the writing of a book.” Ostensibly opposite types of praise, in fact both Einstein and Thomas were hailed by their closest colleagues for “a concentrated continuous energy that expresses itself in a profound singlemindedness, a remarkable solitude and aloofness”—in sum, “a recognizable likeness between these two extraordinary intellects. ”
 
 ### Page 133
 
@@ -250,7 +263,7 @@ Second, the formal eﬀects of autonomous digital entities as a medium will fore
 
 ### Page 134
 
-But this is not true only in the limited way Wiener underscores through his use of another of Goethe’s masterworks, The Sorcerer’s Apprentice, to illustrate how the use of machines by imagineers with insufcient foresight can approach “the edge of catastrophe.” (164) Remembering only “some fragments of an incantation” to start the broom to work, the apprentice “is well on the way to be drowned when the magician comes back, recites the words of power, and gives the apprentice a good wholesome scolding. Even here the fnal catastrophe is averted through a deus ex machina,” Wiener notes mordantly.
+But this is not true only in the limited way Wiener underscores through his use of another of Goethe’s masterworks, The Sorcerer’s Apprentice, to illustrate how the use of machines by imagineers with insufcient foresight can approach “the edge of catastrophe.” Remembering only “some fragments of an incantation” to start the broom to work, the apprentice “is well on the way to be drowned when the magician comes back, recites the words of power, and gives the apprentice a good wholesome scolding. Even here the fnal catastrophe is averted through a deus ex machina,” Wiener notes mordantly.
 
 ### Page 134
 
@@ -304,7 +317,7 @@ Once America had sufciently globalized its financial structure, its security app
 
 ### Page 141
 
-Bruno Maçães observes. (176) “While this process was seen as the necessary price for becoming modern,” as the digital age has set in, many doubts have been growing about whether it is really necessary to imitate Western nations in order to acquire all the benefts” technologically advanced societies boast.
+Bruno Maçães observes. “While this process was seen as the necessary price for becoming modern,” as the digital age has set in, many doubts have been growing about whether it is really necessary to imitate Western nations in order to acquire all the benefts” technologically advanced societies boast.
 
 ### Page 143
 
@@ -372,7 +385,7 @@ Beyond the “trans,” none can be more truly ethereal, as we all know, than th
 
 ### Page 178
 
-Queerness purports to have fnally exceeded by transcendence the Christian God Nietzsche had called “the maximum god attained so far.” (234) By Nietzsche’s logic, the maximal God of Christianity “was therefore accompanied by the maximum feeling of guilty indebtedness on earth. ” As a result he hoped that, “presuming we have gradually entered upon the reverse course, there is no small probability that with the irresistible decline of faith in the Christian God there is now also a considerable decline in mankind’s feeling of guilt”
+Queerness purports to have fnally exceeded by transcendence the Christian God Nietzsche had called “the maximum god attained so far.” By Nietzsche’s logic, the maximal God of Christianity “was therefore accompanied by the maximum feeling of guilty indebtedness on earth. ” As a result he hoped that, “presuming we have gradually entered upon the reverse course, there is no small probability that with the irresistible decline of faith in the Christian God there is now also a considerable decline in mankind’s feeling of guilt”
 
 ### Page 179
 
@@ -466,7 +479,7 @@ Inescapably, the triumph of the digital swarm disenchants ethereal ethics, strip
 
 ### Page 219
 
-Unfortunately for the designers, their credibility is hanging by a cultural thread. The path for what Mumford calls “a new constellation of formative ideas” is opened in “the whole body of entrenched institutions” by “a physical breakdown which exposes the technical ineptitude or human insufficiency of a seemingly prosperous society.” (266) Among these Mumford counts “wars and the physical impoverishment and destruction that wars produce,” but still more to the point “epidemic diseases and environmental degradations” and “outbreaks of criminal violence and psychotic malevolence.” All are symptoms of the system established by our ruling factions, despite or because of the unlimited breakneck advance of technology by our engineers, and all “produce further social lapses; for the people aﬀected, feeling cheated and oppressed, refuse them to perform their old duties or make the daily eﬀorts and sacrifces always needed for keeping the mechanism of society moving. ” In keeping with Wiener’s sharpest warnings, Mumford suggests what usually brings on such breakdowns is “a radical failure in feedback: an inability to acknowledge errors, an unwillingness to correct them, a resistance to introducing new ideas and methods that would provide the means for a constructively human transformation."
+Unfortunately for the designers, their credibility is hanging by a cultural thread. The path for what Mumford calls “a new constellation of formative ideas” is opened in “the whole body of entrenched institutions” by “a physical breakdown which exposes the technical ineptitude or human insufficiency of a seemingly prosperous society.” Among these Mumford counts “wars and the physical impoverishment and destruction that wars produce,” but still more to the point “epidemic diseases and environmental degradations” and “outbreaks of criminal violence and psychotic malevolence.” All are symptoms of the system established by our ruling factions, despite or because of the unlimited breakneck advance of technology by our engineers, and all “produce further social lapses; for the people aﬀected, feeling cheated and oppressed, refuse them to perform their old duties or make the daily eﬀorts and sacrifces always needed for keeping the mechanism of society moving. ” In keeping with Wiener’s sharpest warnings, Mumford suggests what usually brings on such breakdowns is “a radical failure in feedback: an inability to acknowledge errors, an unwillingness to correct them, a resistance to introducing new ideas and methods that would provide the means for a constructively human transformation."
 
 ### Page 220
 
@@ -506,11 +519,11 @@ Against these tremendous headwinds produced by the existence and experience of p
 
 ### Page 232
 
-Not even ever more engrossing and interoperable gaming metaverses can sweep away the sea change of sensibilities unleashed by the digital triumph. If kids game earlier in life than ever, they ofen and increasingly burn through games and the gaming lifestyle faster too. While juvenile fixtures of gaming scenes are busted for sexual crimes against tweens—as happened recently to one well-known Fortnite livestreamer—actual juveniles, tomorrow’s First Generation men and women, look back with jaded nostalgia on the mega-game’s simple, brand-free Season One.Now, they see it as it is: just another trash heap of commercial cringe, a sort of graveyard where oversaturated IP goes to die, respawn, die, respawn, die, in the manner of a Hindu who never achieves the degree of enlightenment sufcient to rest in peace.
+Not even ever more engrossing and interoperable gaming metaverses can sweep away the sea change of sensibilities unleashed by the digital triumph. If kids game earlier in life than ever, they often and increasingly burn through games and the gaming lifestyle faster too. While juvenile fixtures of gaming scenes are busted for sexual crimes against tweens—as happened recently to one well-known Fortnite livestreamer—actual juveniles, tomorrow’s First Generation men and women, look back with jaded nostalgia on the mega-game’s simple, brand-free Season One. Now, they see it as it is: just another trash heap of commercial cringe, a sort of graveyard where oversaturated IP goes to die, respawn, die, respawn, die, in the manner of a Hindu who never achieves the degree of enlightenment sufficient to rest in peace.
 
 ### Page 249
 
-In an era when commerce and communications are controlled to produce propaganda, reasonably if excessively paranoid Americans see predictive programming in the pop art manufactured to condition them to accept coming reorganizational attractions; in truth, science fction has served more to signal that the Complex has already introduced seemingly fantasy technology into real life. The fantasy is that ordinary people—artists—made it up. “Art at its most signifcant is a Distant Early Warning System,” McLuhan observed, “that can always be relied on to tell the old culture what is beginning to happen to it.
+In an era when commerce and communications are controlled to produce propaganda, reasonably if excessively paranoid Americans see predictive programming in the pop art manufactured to condition them to accept coming reorganizational attractions; in truth, science fiction has served more to signal that the Complex has already introduced seemingly fantasy technology into real life. The fantasy is that ordinary people—artists—made it up. “Art at its most signifcant is a Distant Early Warning System,” McLuhan observed, “that can always be relied on to tell the old culture what is beginning to happen to it."
 
 ### Page 250
 
