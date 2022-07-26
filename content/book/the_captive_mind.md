@@ -1,5 +1,5 @@
 ---
-title: "The Captive Mind by Czesław Miłosz"
+title: "Book Club: The Captive Mind by Czesław Miłosz"
 date: 2022-01-21T17:14:57Z
 draft: false
 authors: 

@@ -1,5 +1,5 @@
 ---
-title: "88 Precepts by David Lane"
+title: "Book Club: 88 Precepts by David Lane"
 date: 2022-01-06T22:16:05Z
 draft: false
 ---

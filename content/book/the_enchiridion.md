@@ -1,5 +1,5 @@
 ---
-title: "The Enchiridion by Epictetus"
+title: "Book Club: The Enchiridion by Epictetus"
 date: 2021-08-09T19:43:46+01:00
 draft: false
 ---

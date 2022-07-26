@@ -1,5 +1,5 @@
 ---
-title: "On the Genealogy of Morals by Nietzsche"
+title: "Book Club: On the Genealogy of Morals by Nietzsche"
 date: 2022-04-21T22:29:46+01:00
 draft: false
 ---

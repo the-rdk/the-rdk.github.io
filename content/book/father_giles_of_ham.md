@@ -1,5 +1,5 @@
 ---
-title: "Father Giles of Ham by J.R.R. Tolkien"
+title: "Book Club: Father Giles of Ham by J.R.R. Tolkien"
 date: 2022-03-31T22:12:39+01:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Camp of the Saints by Jean Raspail"
+title: "Book Club: The Camp of the Saints by Jean Raspail"
 date: 2022-03-07T09:36:43Z
 draft: false
 ---

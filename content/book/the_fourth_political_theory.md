@@ -1,7 +1,9 @@
 ---
-title: "The Fourth Political Theory by Alexander Dugin"
+title: "Book Club: The Fourth Political Theory by Alexander Dugin"
 date: 2021-08-23T11:49:21+01:00
 draft: false
+authors:
+    - "Nic Lozanges"
 ---
 
 [Link to epub](/books/the_fourth_political_theory.epub)
@@ -20,7 +22,7 @@ When critiquing fascism Sasha makes a fatal mistake. He attempts to separate the
 
 From what can be deciphered Dugin proposes an amalgamation of the strengths of communism and fascism. The result is an "anti-racist" endorsement for segregation, an embrace of collective identity and an appeal to the value of tradition. Also known as fascism with a few extra steps and a spot of paint.
 
-Although the book fails in its intended objective, it remains a recommended read. Though you'll want to skim some of the weaker chapters.
+Although the book fails in its intended objective, it remains a recommended read. Though you'll want to skim the weaker chapters.
 
 # Selected Passages
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Win Friends and Influence People by Dale Carnegie"
+title: "Book Club: How to Win Friends and Influence People by Dale Carnegie"
 date: 2021-10-19T19:25:47+01:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "A History of Central Banking by Stephen Mitford Goodson"
+title: "Book Club: A History of Central Banking by Stephen Mitford Goodson"
 date: 2021-04-30T11:13:59+01:00
 draft: false
 ---

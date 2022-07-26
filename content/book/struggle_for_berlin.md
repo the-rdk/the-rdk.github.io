@@ -1,5 +1,5 @@
 ---
-title: "Struggle for Berlin by Joseph Goebbels"
+title: "Book Club: Struggle for Berlin by Joseph Goebbels"
 date: 2021-09-18T09:41:21+01:00
 draft: false
 ---

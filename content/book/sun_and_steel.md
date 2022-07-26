@@ -1,5 +1,5 @@
 ---
-title: "Sun and Steel by Yukio Mishima"
+title: "Book Club: Sun and Steel by Yukio Mishima"
 date: 2021-04-15T09:24:53+01:00
 draft: false
 ---

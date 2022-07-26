@@ -1,5 +1,5 @@
 ---
-title: "The Abolition of Man by C.S. Lewis"
+title: "Book Club: The Abolition of Man by C.S. Lewis"
 date: 2021-07-25T10:41:52+01:00
 draft: false
 ---
@@ -45,7 +45,7 @@ draft: false
 
 ### The Law of Mercy
 
-+ ‘They said that he had been the mildest and gentlest of thekings of the world.’ (Anglo-Saxon. Praise of the hero inBeowulf,3180)
++ ‘They said that he had been the mildest and gentlest of thekings of the world.’ (Anglo-Saxon. Praise of the hero in Beowulf,3180)
 
 ### The Law of Magnanimity
 
