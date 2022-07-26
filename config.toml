@@ -5,8 +5,15 @@ title = "The RDK"
 theme = "anubis"
 publishDir = "docs"
 
+# https://codingnconcepts.com/hugo/multiple-authors-hugo/
+[taxonomies]
+  author = "authors"
+
 [params]
   style = "dark"
+  rssAsSocialIcon = true
+  disableSummary = true
+  readMore = false
 
 [Menus]
   main = [
