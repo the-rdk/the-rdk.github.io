@@ -10,7 +10,7 @@ publishDir = "docs"
   author = "authors"
 
 [params]
-  style = "dark"
+  style = "dark-without-switcher"
   rssAsSocialIcon = true
   disableSummary = true
   readMore = false

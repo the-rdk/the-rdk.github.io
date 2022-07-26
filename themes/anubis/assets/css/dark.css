@@ -1,10 +1,10 @@
 /* dark.css */ 
 --font-color: #eee;
---bg-color: #212121;
+--bg-color: #212022;
 
 --link-color:#599ada;
---link-state-color:#ff5858;
---link-state-border-color: rgba(238, 54, 54, 0.5);
+--link-state-color:#65EFA5;
+--link-state-border-color: #65EFA5;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
