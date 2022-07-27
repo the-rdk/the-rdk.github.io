@@ -20,4 +20,5 @@ publishDir = "docs"
     {Name = "Articles", URL = "/article", weight = 2},
     {Name = "Home", URL = "/", weight = 1},
     {Name = "Book Club", URL = "/book", weight = 3},
+    {Name = "About", URL = "/about", weight = 4 },
   ]
