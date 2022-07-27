@@ -53,8 +53,10 @@ section {
     display: block;
 }
 
+.content-block {
+}
+
 .container {
-    max-width: 42em;
     margin: 0 auto;
 }
 
@@ -186,7 +188,19 @@ hr {
 
 /* Header */
 
+.homepage-content {
+    max-width: 42em;
+    margin: 0 auto;
+}
+
+.index-content {
+    max-width: 42em;
+    margin: 0 auto;
+}
+
 .common-header {
+    max-width: 42em;
+    margin: 0 auto;
     padding-bottom: 1.5em;
     border-bottom: thin solid var(--hr-color);
 }
@@ -360,6 +374,11 @@ article header h1 a {
     text-decoration: none;
 }
 
+.articles {
+    max-width: 42em;
+    margin: 0 auto;
+}
+
 .post h1,
 .post h2,
 .post h3,
@@ -380,6 +399,10 @@ article header h1 a {
     left: -1.2rem;
 }
 
+.post {
+    max-width: 42em;
+    margin: 0 auto;
+}
 .post h1:hover a,
 .post h2:hover a,
 .post h3:hover a,
@@ -618,10 +641,15 @@ article figcaption {
 
 /* Footer */
 
+.footer-container {
+    max-width: 42em;
+    margin: 0 auto auto;
+}
+
 .common-footer {
+    margin: 3em auto auto auto;
     border-top: thin solid var(--hr-color);
     padding-top: 1.5em;
-    margin-top: 3em;
     font-size: 16px;
 }
 

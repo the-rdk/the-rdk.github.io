@@ -3,11 +3,12 @@
         {{ .Content }}
     </div>
 
-    {{ if .Pages }}
-    <h1><u>Latest {{ .Title }}:</u></h1>
-    {{ end }}
-
     <div class="articles h-feed">
+
+        {{ if .Pages }}
+        <h1><u>Latest {{ .Title }}:</u></h1>
+        {{ end }}
+
         <h1 class="post-title">{{ i18n .Title }}</h1>
         {{ range .Pages }}
             <div class="post-short-list h-entry">

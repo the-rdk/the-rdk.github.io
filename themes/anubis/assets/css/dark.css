@@ -1,6 +1,8 @@
 /* dark.css */ 
 --font-color: #eee;
+--content-font-color: #333;
 --bg-color: #212022;
+--content-bg-color: #fff;
 
 --link-color:#599ada;
 --link-state-color:#65EFA5;

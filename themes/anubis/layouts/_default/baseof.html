@@ -20,9 +20,11 @@
         <main id="main" tabindex="-1"> 
             {{ block "main" . }}{{ end }}
         </main>
+        <div class="footer-container">
         {{ block "footer" . }}
             {{ partial "footer.html" . }}
         {{ end }}
+        </div>
     </div>
 </body>
 </html>

@@ -6,8 +6,8 @@ draft: false
 
 {{< video src="/logo/The_RDK_Neon_Banner.webm" type="video/webm" preload="auto" >}}
 
-The RDK is a Right-Wing European Book Club aiming to encourage and support members in the pursuit of research, skill 
-development and writing proficiency.
+The RDK is a Right-Wing European Book Club aiming to encourage and support members in the pursuit of research, art, 
+skills development and writing proficiency.
 
 The Book Club provides an opportunity to expose members to new ideas and also to stretch their literary skills by 
 writing reports. Books are chosen by vote. There is no set genre, although the books tend to lean towards politics and

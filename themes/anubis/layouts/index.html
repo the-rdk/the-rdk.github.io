@@ -1,15 +1,19 @@
 {{ define "main" }}
+
     <div class="homepage-content">
         {{ .Content }}
     </div>
 
-    <h1><u>Recent Posts:</u></h1>
+    <div class="content-block">
 
-    <div class="articles h-feed">
-        {{ range .Site.RegularPages }}
-            {{ partial "post-summary.html" . }}
-        {{ end }}
-        {{ partial "pagination.html" . }}
+        <div class="articles h-feed">
+            <h1><u>Recent Posts:</u></h1>
+            {{ range .Site.RegularPages }}
+                {{ partial "post-summary.html" . }}
+            {{ end }}
+            {{ partial "pagination.html" . }}
+        </div>
+
     </div>
 
 {{ end }}
