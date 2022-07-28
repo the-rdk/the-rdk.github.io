@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The RDK</title>
+    <link>https://the-rdk.github.io/about/</link>
+    <description>The RDK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="https://the-rdk.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://the-rdk.github.io/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://the-rdk.github.io/about/about/</guid>
+      <description>&lt;p&gt;The RDK is a European book club looking to bring aspirational men together. The club is a place for members to discuss
+current events, books and their personal projects with like-minded people.&lt;/p&gt;
+&lt;p&gt;The club has an emphasis on written work, however members also pursue projects across a variety of domains from art to
+engineering. We hope this environment encourages members to produce interesting work and create opportunities
+for collaboration.&lt;/p&gt;
+&lt;p&gt;We are open to new members keen on exploring their interests and developing their literary skills alongside frens.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
