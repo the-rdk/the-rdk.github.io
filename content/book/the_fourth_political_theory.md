@@ -3,7 +3,7 @@ title: "Book Club: The Fourth Political Theory by Alexander Dugin"
 date: 2021-08-23T11:49:21+01:00
 draft: false
 authors:
-    - "Ian Orman"
+    - "Ian Lintorn"
 ---
 
 [Link to epub](/books/the_fourth_political_theory.epub)

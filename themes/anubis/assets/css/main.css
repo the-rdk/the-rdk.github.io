@@ -54,6 +54,9 @@ section {
 }
 
 .content-block {
+    background-color: #fff;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .container {
@@ -202,7 +205,6 @@ hr {
     max-width: 42em;
     margin: 0 auto;
     padding-bottom: 1.5em;
-    border-bottom: thin solid var(--hr-color);
 }
 
 header a {
@@ -369,7 +371,7 @@ article header h1 {
 }
 
 article header h1 a {
-    color: var(--font-color);
+    color: var(--content-font-color);
     border: none;
     text-decoration: none;
 }
@@ -377,6 +379,27 @@ article header h1 a {
 .articles {
     max-width: 42em;
     margin: 0 auto;
+}
+.articles img {
+    margin: 0 auto;
+    display: block;
+}
+
+.content-block h1,
+.content-block h2,
+.content-block h3,
+.content-block a,
+.content-block article h1 a,
+.content-block article .content p {
+    color: var(--content-font-color);
+}
+
+.content-block a:hover {
+    color: var(--link-state-color)
+}
+
+.content-block article p a {
+    color: var(--link-color)
 }
 
 .post h1,

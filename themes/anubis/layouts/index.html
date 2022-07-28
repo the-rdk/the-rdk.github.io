@@ -7,11 +7,11 @@
     <div class="content-block">
 
         <div class="articles h-feed">
-            <h1><u>Recent Posts:</u></h1>
             {{ range .Site.RegularPages }}
-                {{ partial "post-summary.html" . }}
+                {{ if not (eq .Title "About") }}
+                    {{ partial "post-summary.html" . }}
+                {{ end }}
             {{ end }}
-            {{ partial "pagination.html" . }}
         </div>
 
     </div>

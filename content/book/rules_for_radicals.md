@@ -3,7 +3,7 @@ title: "Book Club: Rules for Radicals by Saul Alinsky"
 date: 2021-06-27T16:11:10+01:00
 draft: false
 authors: 
-  - "Ian Orman"
+  - "Ian Lintorn"
 ---
 
 [Link to epub](/books/rules_for_radicals.epub)

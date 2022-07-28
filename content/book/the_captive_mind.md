@@ -3,7 +3,7 @@ title: "Book Club: The Captive Mind by Czesław Miłosz"
 date: 2022-01-21T17:14:57Z
 draft: false
 authors: 
-    - "Ian Orman"
+    - "Ian Lintorn"
 ---
 
 [Link to PDF](/books/the_captive_mind.pdf)

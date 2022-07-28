@@ -3,24 +3,24 @@
         {{ .Content }}
     </div>
 
-    <div class="articles h-feed">
+    {{ if not (eq 0 (len .Pages)) }}
+    <div class="content-block">
+        <div class="articles h-feed">
 
-        {{ if .Pages }}
-        <h1><u>Latest {{ .Title }}:</u></h1>
-        {{ end }}
-
-        <h1 class="post-title">{{ i18n .Title }}</h1>
-        {{ range .Pages }}
-            <div class="post-short-list h-entry">
-                <div class="post-header">
-                    <header>
-                        <h2 class="p-name post-title{{ if .Params.favorite }} favorite{{end}}{{ if .Params.draft }} draft{{end}}"><a class="u-url" href="{{ .RelPermalink }}">{{ trim .Title " " }}</a></h2>
-                        {{ partial "post-language-switcher.html" . }}
-                    </header>
+            <h1 class="post-title">{{ i18n .Title }}</h1>
+            {{ range .Pages }}
+                <div class="post-short-list h-entry">
+                    <div class="post-header">
+                        <header>
+                            <h2 class="p-name post-title{{ if .Params.favorite }} favorite{{end}}{{ if .Params.draft }} draft{{end}}"><a class="u-url" href="{{ .RelPermalink }}">{{ trim .Title " " }}</a></h2>
+                            {{ partial "post-language-switcher.html" . }}
+                        </header>
+                    </div>
+                    {{ partial "post-info.html" . }}
                 </div>
-                {{ partial "post-info.html" . }}
-            </div>
-        {{ end }}
+            {{ end }}
+        </div>
     </div>
+    {{ end }}
 
 {{ end }}

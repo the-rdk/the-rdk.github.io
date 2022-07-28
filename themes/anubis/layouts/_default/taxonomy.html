@@ -1,13 +1,15 @@
 {{ define "main" }}
-    <div class="articles content-block">
-        <h1><u>{{ i18n .Data.Singular | humanize }} {{ .Title }}:</u></h1>
-        <div class="post-info">
-            <a href="{{ (print .Data.Plural "/") | relLangURL }}">{{ i18n (printf "toAll%s" (.Data.Plural | humanize )) | humanize }}</a>
+    <div class="content-block">
+        <div class="articles">
+            <h1>{{ i18n .Data.Singular | humanize }} {{ .Title }}:</h1>
+            <div class="post-info">
+                <a href="{{ (print .Data.Plural "/") | relLangURL }}">{{ i18n (printf "toAll%s" (.Data.Plural | humanize )) | humanize }}</a>
+            </div>
+            {{ $pages := where .Pages "Params.hidden" "!=" true }}
+            {{ range (.Paginate $pages).Pages }}
+                {{ partial "post-summary.html" . }}
+            {{ end }}
+            {{ partial "pagination.html" . }}
         </div>
-        {{ $pages := where .Pages "Params.hidden" "!=" true }}
-        {{ range (.Paginate $pages).Pages }}
-            {{ partial "post-summary.html" . }}
-        {{ end }}
-        {{ partial "pagination.html" . }}
     </div>
 {{ end }}
