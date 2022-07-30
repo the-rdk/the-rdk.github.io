@@ -10,4 +10,5 @@ The club has an emphasis on written work, however members also pursue projects a
 engineering. We hope this environment encourages members to produce interesting work and create opportunities
 for collaboration.
 
-We are open to new members keen on exploring their interests and developing their literary skills alongside frens.
+We are open to new members keen on exploring their interests and developing their literary skills alongside frens. See
+[here](/book) for how to join.

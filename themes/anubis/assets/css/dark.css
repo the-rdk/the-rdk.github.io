@@ -1,17 +1,18 @@
 /* dark.css */ 
 --font-color: #eee;
 --content-font-color: #333;
---bg-color: #212022;
+--bg-color: #738645;
 --content-bg-color: #fff;
 
---link-color:#599ada;
---link-state-color:#5DD294;
---link-state-border-color: #5DD294;
+--link-color:#b0c289;
+--link-color-dark:#64763d;
+--link-state-color:#b0c289;
+--link-state-border-color: #b0c289;
 
 --thead-bg-color: #343a40;
 --table-border-color: lightgrey;
 
---nav-bg-color: #444444;
+--nav-bg-color: #64763d;
 --nav-link-color: #b6b6b6;
 
 --pre-color: #f8f8f2;
