@@ -7,9 +7,19 @@
     <div class="content-block">
 
         <div class="articles h-feed">
-            {{ range .Site.RegularPages }}
-                {{ if not (eq .Title "About") }}
-                    {{ partial "post-summary.html" . }}
+            {{ if .IsHome }}
+                {{ range .Site.RegularPages }}
+                    {{ if not (eq .Title "About") }}
+                        {{ if lt 200 (len .Content) }}
+                            {{ partial "post-summary.html" . }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ else }}
+                {{ range .Site.RegularPages }}
+                    {{ if not (eq .Title "About") }}
+                        {{ partial "post-summary.html" . }}
+                    {{ end }}
                 {{ end }}
             {{ end }}
         </div>
