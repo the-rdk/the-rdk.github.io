@@ -406,6 +406,10 @@ article header h1 a {
     color: var(--link-color-dark)
 }
 
+blockquote {
+    background-color: var(--font-color);
+}
+
 .post h1,
 .post h2,
 .post h3,

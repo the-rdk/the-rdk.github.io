@@ -1,5 +1,5 @@
 ---
-title: "Hegemony How-To by Jonathon Smucker"
+title: "Book Club: Hegemony How-To by Jonathon Smucker"
 date: 2022-08-12T18:22:41+01:00
 draft: false
 ---
