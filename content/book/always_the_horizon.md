@@ -10,7 +10,7 @@ authors:
 
 'Always The Horizon' by Murdoch Murdoch is the pseudonymous screenwriter's first foray into a work of a more formal nature. While this fact may often be apparent in the text, with some staccato action sequences reading more like directions for an animator as opposed to a novella, Murdoch is effective in expressing the same hopeful ideals he portrays in his web animations in this new prosaic form.
 
-Taking cues from Nietzsche's 'Thus Spake Zarathustra', Greek mythology, gothic horror and fantasy stories, Murdoch encourages readers to fight against nihilism and despair. Instead, find joy in imagining Sisyphus happy: striving to be the best person you can be, finding meaning in overcoming the challenges you face, and eternally running towards the horizon.
+Taking cues from Nietzsche's 'Thus Spake Zarathustra', Greek mythology, gothic horror and fantasy stories, Murdoch encourages readers to fight against nihilism and despair. Instead, finding joy in imagining Sisyphus happy: striving to be the best person you can be, finding meaning in overcoming the challenges you face, and eternally running towards the horizon.
 
 Murdoch rejects the cold, analytical fatalism endemic in modern society in favour of a romantic, perhaps even foolish, idealism. This is reflected even in the name of the protagonist, as the story is framed as a dialogue between The Sacred Clown and his faithful horse-riding companion, surrogates respectively for Murdoch and the reader himself, as they embark on a classic hero's journey.
 
