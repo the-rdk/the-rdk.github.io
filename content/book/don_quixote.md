@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote by Miguel de Cervantes"
+title: "Book Club: Don Quixote by Miguel de Cervantes"
 date: 2022-09-11T10:24:24+01:00
 draft: false
 ---
