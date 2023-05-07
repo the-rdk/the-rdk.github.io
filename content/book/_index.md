@@ -9,5 +9,5 @@ draft: false
 * Private mens-only club.
 * Meet Thursdays fortnightly.
 * Write book reports, present projects and discuss current events.
-* To join email us at **the_rdk@protonmail.com** from an anonymous email address.
+* To join pop into our [Element](https://matrix.to/#/#the-rdk-international:matrix.org) chatroom and introduce yourself.
 * It is requested that you do not share your real name, location or age.
