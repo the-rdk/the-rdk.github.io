@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The RDK</title>
-    <link>https://the-rdk.github.io/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>The RDK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="https://the-rdk.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://the-rdk.github.io/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://the-rdk.github.io/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>&lt;p&gt;The RDK is a European book club looking to bring aspirational men together. The club is a place for members to discuss current events, books and personal projects with like-minded people.&lt;/p&gt;
 &lt;p&gt;The club emphasises written work. However, members also pursue projects across various domains, from art to engineering. We hope this environment encourages members to produce exciting work and create opportunities for collaboration.&lt;/p&gt;
-&lt;p&gt;We are open to new members keen on exploring their interests and developing their literary skills alongside frens. See &lt;a href=&#34;https://the-rdk.github.io/book&#34;&gt;here&lt;/a&gt; for how to join.&lt;/p&gt;
+&lt;p&gt;We are open to new members keen on exploring their interests and developing their literary skills alongside frens. See &lt;a href=&#34;http://localhost:1313/book&#34;&gt;here&lt;/a&gt; for how to join.&lt;/p&gt;
 </description>
     </item>
     
