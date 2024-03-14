@@ -1,123 +1,203 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>http://localhost:1313/book/the_white_guard/</loc>
+    <loc>https://the-rdk.github.io/book/the_white_guard/</loc>
     <lastmod>2024-03-12T12:08:47+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_coming_of_conan/</loc>
-    <lastmod>2024-01-08T19:21:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_sword_of_christ/</loc>
-    <lastmod>2023-11-26T10:27:26+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_eggs_benedict_option/</loc>
-    <lastmod>2023-10-16T09:09:34+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_machiavellians/</loc>
-    <lastmod>2023-09-13T22:12:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/populist_delusion/</loc>
-    <lastmod>2023-06-25T08:14:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/how_to_read_a_book/</loc>
-    <lastmod>2023-05-05T09:00:06+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/how_they_rule_the_world/</loc>
-    <lastmod>2023-03-16T20:06:41+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/how_to_judge_people_by_what_they_look_like/</loc>
-    <lastmod>2023-02-23T18:54:13+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/might_makes_right/</loc>
-    <lastmod>2023-01-14T19:29:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/storm_of_steel/</loc>
-    <lastmod>2022-11-06T09:19:34+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_prince/</loc>
-    <lastmod>2022-10-09T11:51:31+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/don_quixote/</loc>
-    <lastmod>2022-09-11T10:24:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2022-08-19T10:12:41+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/lintorn/</loc>
-    <lastmod>2022-08-19T10:12:41+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/article/strength_through_play/</loc>
-    <lastmod>2022-08-19T10:12:41+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/hegemony_how_to/</loc>
-    <lastmod>2022-08-12T18:22:41+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/propaganda/</loc>
-    <lastmod>2022-06-17T09:26:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/on_the_genealogy_of_morals/</loc>
-    <lastmod>2022-04-21T22:29:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/father_giles_of_ham/</loc>
-    <lastmod>2022-03-31T22:12:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/camp_of_the_saints/</loc>
-    <lastmod>2022-03-07T09:36:43+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_captive_mind/</loc>
-    <lastmod>2022-01-21T17:14:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/88_precepts/</loc>
-    <lastmod>2022-01-06T22:16:05+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/article/human_forever/</loc>
-    <lastmod>2021-12-24T19:29:53+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/always_the_horizon/</loc>
-    <lastmod>2021-11-07T19:40:36+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/caledonian/</loc>
-    <lastmod>2021-11-07T19:40:36+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/how_to_win_friends_and_influence_people/</loc>
-    <lastmod>2021-10-19T19:25:47+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/struggle_for_berlin/</loc>
-    <lastmod>2021-09-18T09:41:21+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_fourth_political_theory/</loc>
-    <lastmod>2021-08-23T11:49:21+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_enchiridion/</loc>
-    <lastmod>2021-08-09T19:43:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/the_abolition_of_man/</loc>
-    <lastmod>2021-07-25T10:41:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/rules_for_radicals/</loc>
-    <lastmod>2021-06-27T16:11:10+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/bronze_age_mindset/</loc>
-    <lastmod>2021-05-28T09:54:11+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/history_of_central_banking/</loc>
-    <lastmod>2021-04-30T11:13:59+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/sun_and_steel/</loc>
-    <lastmod>2021-04-15T09:24:53+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/article/</loc>
-    <lastmod>2021-04-07T11:24:29+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/book/</loc>
-    <lastmod>2021-04-07T11:24:29+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2021-04-07T11:24:29+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/about/</loc>
   </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_coming_of_conan/</loc>
+    <lastmod>2024-01-08T19:21:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_sword_of_christ/</loc>
+    <lastmod>2023-11-26T10:27:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_eggs_benedict_option/</loc>
+    <lastmod>2023-10-16T09:09:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_machiavellians/</loc>
+    <lastmod>2023-09-13T22:12:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/populist_delusion/</loc>
+    <lastmod>2023-06-25T08:14:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/how_to_read_a_book/</loc>
+    <lastmod>2023-05-05T09:00:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/how_they_rule_the_world/</loc>
+    <lastmod>2023-03-16T20:06:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/how_to_judge_people_by_what_they_look_like/</loc>
+    <lastmod>2023-02-23T18:54:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/might_makes_right/</loc>
+    <lastmod>2023-01-14T19:29:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/storm_of_steel/</loc>
+    <lastmod>2022-11-06T09:19:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_prince/</loc>
+    <lastmod>2022-10-09T11:51:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/don_quixote/</loc>
+    <lastmod>2022-09-11T10:24:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/authors/</loc>
+    <lastmod>2022-08-19T10:12:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/authors/lintorn/</loc>
+    <lastmod>2022-08-19T10:12:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/article/strength_through_play/</loc>
+    <lastmod>2022-08-19T10:12:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/hegemony_how_to/</loc>
+    <lastmod>2022-08-12T18:22:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/propaganda/</loc>
+    <lastmod>2022-06-17T09:26:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/on_the_genealogy_of_morals/</loc>
+    <lastmod>2022-04-21T22:29:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/father_giles_of_ham/</loc>
+    <lastmod>2022-03-31T22:12:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/camp_of_the_saints/</loc>
+    <lastmod>2022-03-07T09:36:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_captive_mind/</loc>
+    <lastmod>2022-01-21T17:14:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/88_precepts/</loc>
+    <lastmod>2022-01-06T22:16:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/article/human_forever/</loc>
+    <lastmod>2021-12-24T19:29:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/always_the_horizon/</loc>
+    <lastmod>2021-11-07T19:40:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/authors/caledonian/</loc>
+    <lastmod>2021-11-07T19:40:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/how_to_win_friends_and_influence_people/</loc>
+    <lastmod>2021-10-19T19:25:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/struggle_for_berlin/</loc>
+    <lastmod>2021-09-18T09:41:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_fourth_political_theory/</loc>
+    <lastmod>2021-08-23T11:49:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_enchiridion/</loc>
+    <lastmod>2021-08-09T19:43:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/the_abolition_of_man/</loc>
+    <lastmod>2021-07-25T10:41:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/rules_for_radicals/</loc>
+    <lastmod>2021-06-27T16:11:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/bronze_age_mindset/</loc>
+    <lastmod>2021-05-28T09:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/history_of_central_banking/</loc>
+    <lastmod>2021-04-30T11:13:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/sun_and_steel/</loc>
+    <lastmod>2021-04-15T09:24:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/article/</loc>
+    <lastmod>2021-04-07T11:24:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/book/</loc>
+    <lastmod>2021-04-07T11:24:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/</loc>
+    <lastmod>2021-04-07T11:24:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://the-rdk.github.io/about/about/</loc>
+  </url>
+  
 </urlset>
